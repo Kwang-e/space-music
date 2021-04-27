@@ -1,0 +1,19 @@
+@-webkit-keyframes cwa {
+  0% {
+    transfrom: transition(0, 0) scale(1)
+  }
+
+  100% {
+    transfrom: transition(50vw, 50vh) scale(.5)
+  }
+}
+
+@keyframes cwa {
+  0% {
+    transfrom: transition(0, 0) scale(1)
+  }
+
+  100% {
+    transfrom: transition(50vw, 50vh) scale(.5)
+  }
+}
